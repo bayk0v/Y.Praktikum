@@ -4,7 +4,7 @@
 
 [Аналитика крупного интернет-магазина](https://nbviewer.jupyter.org/github/bayk0v/Y.Praktikum/blob/master/abtest_final.ipynb) - Принятие решений на основе данных,  анализ результатов A/B теста.
  
-[Аналитика в Ганрнизон.Афиша](https://nbviewer.jupyter.org/github/bayk0v/Y.Praktikum/blob/master/ltv_02.ipynb) - помочь маркетологам оптимизировать маркетинговые затраты.
+[Аналитика в Гарнизон.Афиша](https://nbviewer.jupyter.org/github/bayk0v/Y.Praktikum/blob/master/ltv_02.ipynb) - помочь маркетологам оптимизировать маркетинговые затраты.
 
 [Аналитика в Лакшери.Недвижимость](https://nbviewer.jupyter.org/github/bayk0v/Y.Praktikum/blob/master/rooms.ipynb)- определить рыночную стоимость объектов недвижимости. Установить параметры, которые позволят построить автоматизированную систему: она отследит аномалии и мошенническую деятельность.
 
